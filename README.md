@@ -4,7 +4,7 @@
 
 I turn satellite data into maps and evidence about urban heat, vegetation loss, urban growth and emissions in Nigerian cities and landscapes, and I document every limitation along the way.
 
-- 🛰️ Professional Services Analyst at **Sambus Geospatial Nigeria Limited**, deploying enterprise ArcGIS solutions and building client demonstrations
+- 🛰️ GIS Analyst at **Sambus Geospatial Nigeria Limited**, deploying enterprise ArcGIS solutions and building client demonstrations
 - 🎓 BSc Geography, University of Lagos · Esri Cartography certified · NCA member
 - 📄 Co-author, [*Spatio-Temporal Analysis of Greenhouse Gases Concentration in Nigeria from 2019 to 2023*](https://doi.org/10.1007/s41976-026-00293-0), *Remote Sensing in Earth Systems Sciences* (2026), from my BSc thesis (Sentinel-5P TROPOMI + Google Earth Engine)
 - 🔥 Currently working on: attributing gas-flaring emissions in the Niger Delta with satellite data
